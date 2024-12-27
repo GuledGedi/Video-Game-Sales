@@ -1,25 +1,25 @@
 # VideoGameSales
 
-Video Game Sales Analysis (1985-2015) 🎮
+Video Game Sales Analysis (1985-2015) 
 
 Statistical analysis of video game sales trends comparing handheld vs home console performance using multilinear regression models.
 
 Impact & Achievements
 
-📊 Analyzed 6,984 video game sales records spanning 30 years (1985-2015)
+Analyzed 6,984 video game sales records spanning 30 years (1985-2015)
 
-🎯 Developed regression models explaining handheld console sales variance (R² = 0.7387)
+Developed regression models explaining handheld console sales variance (R² = 0.7387)
 
-📈 Identified key factors affecting global sales: critic scores, user ratings, and marketing priority
+Identified key factors affecting global sales: critic scores, user ratings, and marketing priority
 
-🔍 Revealed distinct sales distribution patterns between home and handheld platforms
+Revealed distinct sales distribution patterns between home and handheld platforms
 
 
 Technical Highlights
 
-💻 Technologies: SAS Studio, Statistical Analysis
+Technologies: SAS Studio, Statistical Analysis
 
-🔨 Key Implementations:
+Key Implementations:
 
 Multilinear regression modeling
 
@@ -30,7 +30,7 @@ Variable selection and linearity testing
 Cross-platform comparative analysis
 
 
-📱 Features:
+Features:
 
 Platform-specific sales prediction models
 
@@ -43,7 +43,7 @@ Critic and user score correlation studies
 
 Research Insights
 
-📈 Variables Analyzed:
+Variables Analyzed:
 
 Global Sales (response variable)
 
@@ -56,7 +56,7 @@ User Scores
 Marketing Priority
 
 
-🎯 Key Findings:
+Key Findings:
 
 Home consoles showed more consistent sales patterns
 
