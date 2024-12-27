@@ -4,11 +4,11 @@ Video Game Sales Regression Analysis
 
 Data analysis project examining the decline in handheld gaming device popularity through statistical modeling
 
-Project Background
+**Project Background**
 
 Conducted regression analysis to understand the decreasing popularity of handheld video game devices compared to home consoles, using historical sales data from 1985-2015.
 
-Challenges Addressed
+**Challenges Addressed**
 
 
 Large dataset with 6,984 data points requiring careful preprocessing
@@ -19,7 +19,7 @@ Imbalanced data representation between handheld (4) and home console (11) platfo
 
 Limited variables suitable for regression modeling
 
-Contributions
+**Contributions**
 
 
 Developed separate regression models for handheld and home console platforms
@@ -30,7 +30,7 @@ Created detailed visualizations for sales distribution comparison
 
 Identified key variables impacting global sales performance
 
-Key Findings
+**Key Findings**
 
 
 Handheld model achieved R-squared value of 0.7387
@@ -42,9 +42,8 @@ Marketing priority significantly influenced critic scores and sales
 Technical limitations prevented full statistical comparison between platforms
 
 
-Statistical Model Components
+**Statistical Model Components**
 
-Variables Used:
 
 Response Variable: 
 
@@ -62,7 +61,7 @@ Marketing Priority
 
 
 
-Tools Used
+**Tools Used**
 
 Statistical Analysis: SAS Studio
 
@@ -71,7 +70,7 @@ Data Processing: Data filtering and regression modeling
 Visualization: Scatterplots and histograms
 
 
-Future Improvements
+**Future Improvements**
 
 Include post-2015 data for more comprehensive analysis
 
