@@ -1,68 +1,85 @@
 # VideoGameSales
 
-Video Game Sales Analysis (1985-2015) 
+Video Game Sales Regression Analysis
 
-Statistical analysis of video game sales trends comparing handheld vs home console performance using multilinear regression models.
+Data analysis project examining the decline in handheld gaming device popularity through statistical modeling
 
-Impact & Achievements
+Project Background
 
-Analyzed 6,984 video game sales records spanning 30 years (1985-2015)
+Conducted regression analysis to understand the decreasing popularity of handheld video game devices compared to home consoles, using historical sales data from 1985-2015.
 
-Developed regression models explaining handheld console sales variance (R² = 0.7387)
-
-Identified key factors affecting global sales: critic scores, user ratings, and marketing priority
-
-Revealed distinct sales distribution patterns between home and handheld platforms
+Challenges Addressed
 
 
-Technical Highlights
+Large dataset with 6,984 data points requiring careful preprocessing
 
-Technologies: SAS Studio, Statistical Analysis
+Technical limitations in SAS Studio affecting complete analysis of home console data
 
-Key Implementations:
+Imbalanced data representation between handheld (4) and home console (11) platforms
 
-Multilinear regression modeling
+Limited variables suitable for regression modeling
 
-Data filtering and segmentation
-
-Variable selection and linearity testing
-
-Cross-platform comparative analysis
+Contributions
 
 
-Features:
+Developed separate regression models for handheld and home console platforms
 
-Platform-specific sales prediction models
+Performed data filtering and preprocessing to ensure analysis quality
 
-Marketing priority impact analysis
+Created detailed visualizations for sales distribution comparison
 
-Critic and user score correlation studies
+Identified key variables impacting global sales performance
+
+Key Findings
 
 
+Handheld model achieved R-squared value of 0.7387
+
+Home consoles showed more consistent sales distribution over time
+
+Marketing priority significantly influenced critic scores and sales
+
+Technical limitations prevented full statistical comparison between platforms
 
 
-Research Insights
+Statistical Model Components
 
-Variables Analyzed:
+Variables Used:
 
-Global Sales (response variable)
+Response Variable: 
 
-Platform Types
+Global Sales
 
-Critic Scores
+Explanatory Variables:
 
-User Scores
+Platform
+
+Critic Score
+
+User Score
 
 Marketing Priority
 
 
-Key Findings:
 
-Home consoles showed more consistent sales patterns
+Tools Used
 
-Marketing priority significantly impacts critic scores
+Statistical Analysis: SAS Studio
 
-Platform-specific sales variations identified
+Data Processing: Data filtering and regression modeling
+
+Visualization: Scatterplots and histograms
+
+
+Future Improvements
+
+Include post-2015 data for more comprehensive analysis
+
+Expand handheld console dataset for better representation
+
+Incorporate additional relevant variables
+
+Resolve technical constraints in processing large datasets
 
 
 [View Results](https://html-preview.github.io/?url=https://github.com/GuledGedi/Video-Game-Sales/blob/main/Summary%20Statistics-results%20(4).html)
